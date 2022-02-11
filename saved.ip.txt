@@ -1,0 +1,5 @@
+IP: 179.109.82.216
+ User-Agent: Mozilla/5.0 (X11; Linux aarch64; rv:78.0) Gecko/20100101 Firefox/78.0IP: 35.237.4.214
+ User-Agent: Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)IP: 179.109.82.216
+ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15IP: 179.109.82.216
+ User-Agent: Mozilla/5.0 (X11; Linux aarch64; rv:78.0) Gecko/20100101 Firefox/78.0
